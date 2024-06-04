@@ -1,0 +1,36 @@
+Nilai Probabilitas: 
+Probabilitas Pohon Tumbuh: 0.8
+Probabilitas Pohon Terbakar: 0.3
+Probabilitas Sambaran Petir: 0.0
+Probabilitas Kekebalan Pohon: 0.25
+
+Parameter simulasi:
+Angin: Ya
+Arah Angin: N
+Tingkat Angin: 3
+Arah Angin Bervariasi: Tidak
+
+Hasil simulasi:
+Jumlah sel: 10000
+t = 0: 9999 sel tidak terbakar, 1 sel terbakar
+t = 5: 9940 sel tidak terbakar, 15 sel terbakar
+t = 10: 9796 sel tidak terbakar, 29 sel terbakar
+t = 15: 9555 sel tidak terbakar, 55 sel terbakar
+t = 20: 9216 sel tidak terbakar, 73 sel terbakar
+t = 25: 8811 sel tidak terbakar, 90 sel terbakar
+t = 30: 8281 sel tidak terbakar, 115 sel terbakar
+t = 35: 7660 sel tidak terbakar, 131 sel terbakar
+t = 40: 6939 sel tidak terbakar, 144 sel terbakar
+t = 45: 6169 sel tidak terbakar, 153 sel terbakar
+t = 50: 5285 sel tidak terbakar, 174 sel terbakar
+t = 55: 4313 sel tidak terbakar, 198 sel terbakar
+t = 60: 3317 sel tidak terbakar, 186 sel terbakar
+t = 65: 2505 sel tidak terbakar, 145 sel terbakar
+t = 70: 1824 sel tidak terbakar, 118 sel terbakar
+t = 75: 1290 sel tidak terbakar, 100 sel terbakar
+t = 80: 840 sel tidak terbakar, 85 sel terbakar
+t = 85: 479 sel tidak terbakar, 61 sel terbakar
+t = 90: 226 sel tidak terbakar, 41 sel terbakar
+t = 95: 74 sel tidak terbakar, 16 sel terbakar
+t = 100: 21 sel tidak terbakar, 1 sel terbakar
+t = 103: 21 sel tidak terbakar, 0 sel terbakar
